@@ -1,0 +1,1 @@
+{"mixinTypes":[],"builders":{"configs":{},"default":"maven"},"runners":{"configs":{"system:/java/web/glassfish4":{"ram":0,"variables":{},"options":{}}},"default":"system:/java/web/glassfish4"},"type":"maven","attributes":{"languageVersion":["1.6"],"language":["java"]}}
